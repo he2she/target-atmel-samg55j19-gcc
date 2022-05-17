@@ -2,7 +2,7 @@
   "name": "atmel-samg55j19-gcc",
   "version": "1.0.1",
   "inherits": {
-    "mbed-gcc": "*"
+    "mbed-gcc": "ARMmbed/target-mbed-gcc#v0.1.3"
   },
   "description": "Official mbed build target for the Atmel SAMG55 Xpro development board.",
   "licenses": [
