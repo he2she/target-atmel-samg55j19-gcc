@@ -13,10 +13,10 @@
   ],
   "author": "Akhil P <Akhil.P@atmel.com>",
   "repository": {
-    "url": "git@github.com:ARMmbed/target-atmel-samg55j19-gcc.git",
+    "url": "git@github.com:he2she/target-atmel-samg55j19-gcc.git",
     "type": "git"
   },
-  "homepage": "https://github.com/ARMmbed/target-atmel-samg55j19-gcc",  
+  "homepage": "https://github.com/he2she/target-atmel-samg55j19-gcc",  
   "keywords": [
     "mbed-target:atsamg55j19",
     "mbed-official",
